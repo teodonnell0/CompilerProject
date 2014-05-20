@@ -1,0 +1,15 @@
+<component name="CopyrightManager">
+  <settings default="Travis O'Donnell">
+    <module2copyright>
+      <element module="All" copyright="Travis O'Donnell" />
+    </module2copyright>
+    <LanguageOptions name="JAVA">
+      <option name="fileLocation" value="3" />
+    </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="separateBefore" value="true" />
+      <option name="separateAfter" value="true" />
+      <option name="box" value="true" />
+    </LanguageOptions>
+  </settings>
+</component>

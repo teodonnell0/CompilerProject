@@ -1,0 +1,10 @@
+DECLARE
+     myBool BOOLEAN := TRUE;
+     myOut  SMALLINT ( ) := 20;
+BEGIN
+myOut := 2 + 3 * 4 - 1;
+myOut := myOut - 1;
+DBMS_OUTPUT.PUT_LINE(myOut)
+END;
+$
+
